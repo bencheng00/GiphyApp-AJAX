@@ -1,0 +1,30 @@
+.container {
+	
+	background-repeat: no-repeat;
+}
+
+p {
+	font-family: "Georgia", "Times New Roman", Times, serif; 
+}
+
+.col-6-lg {
+	background-color: black;
+	border-style: ridge;
+	border-color: white;
+	border-width: 10px;
+	margin-left:20%;
+	font-family: "Georgia", "Times New Roman", Times, serif; 
+	width:60%;
+	background-size: 100% 100%;
+	word-wrap: initial;
+	padding:3%;
+	opacity:0.7;
+}
+
+h2 {
+	text-align: center;
+}
+
+.btn {
+	font-size:14px;
+}
